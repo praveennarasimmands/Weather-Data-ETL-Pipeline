@@ -9,8 +9,7 @@
 ---
 
 ### YouTube:
-[Tamil Channel](https://www.linkedin.com/in/praveennarasimman/)
-[English Channel](https://www.linkedin.com/in/praveennarasimman/)
+[Video Link](https://youtu.be/i2XMI4mi94Q?si=vmaqUY_ZHM-ScBIt)
 
 
 ---
