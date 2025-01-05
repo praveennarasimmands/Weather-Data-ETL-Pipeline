@@ -2,6 +2,8 @@
 
 # **Weather Data ETL Pipeline**
 
+![image](https://github.com/user-attachments/assets/b1deed9e-f46a-4d8f-930a-3f2dae955af6)
+
 
 
 ---
