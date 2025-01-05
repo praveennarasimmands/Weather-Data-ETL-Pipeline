@@ -1,0 +1,6 @@
+requests
+pandas
+python-dateutil
+geopy==2.3.0
+boto3
+python-dotenv
