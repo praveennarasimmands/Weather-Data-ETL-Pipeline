@@ -9,7 +9,9 @@
 ---
 
 ### YouTube:
-[Weather-Data-ETL-Pipeline](https://www.linkedin.com/in/praveennarasimman/)
+[Tamil Channel](https://www.linkedin.com/in/praveennarasimman/)
+[English Channel](https://www.linkedin.com/in/praveennarasimman/)
+
 
 ---
 
