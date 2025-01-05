@@ -2,6 +2,13 @@
 
 # **Weather Data ETL Pipeline**
 
+
+
+---
+
+### YouTube:
+[Weather-Data-ETL-Pipeline](https://www.linkedin.com/in/praveennarasimman/)
+
 ---
 
 ### Project Overview:
@@ -153,10 +160,5 @@ This project is licensed under the MIT License.
 
 ### Contact:
 If you have any questions or need support, please feel free to open an issue or contact me directly via GitHub.
-
----
-
-### LinkedIn:
-[Weather-Data-ETL-Pipeline](https://www.linkedin.com/in/praveennarasimman/)
 
 ---
